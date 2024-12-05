@@ -1,0 +1,11 @@
+use("store");
+
+// db.product.insertOne({
+//   name: "iphone",
+//   price: "1000",
+//   descriotion: "iphone is a smarphone",
+//   category: "smartphone",
+// });
+
+db.product.find({});
+//db.getName();
